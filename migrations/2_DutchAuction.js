@@ -1,6 +1,6 @@
 var DutchAuction = artifacts.require("./DutchAuction.sol");
 var MyToken = artifacts.require("MyToken.sol");
-require("dotenv").config({path:"/Users/hamzaahmed/Desktop/Solidity/migrations/.env"});
+require("dotenv").config({path:"./.env"});
 
 module.exports = function(deployer) {
     deployer.deploy(MyToken, 1000000).then(function() {
