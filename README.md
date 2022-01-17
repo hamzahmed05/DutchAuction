@@ -7,7 +7,6 @@ Unit Tests - Truffle
 
 Cient folder contains files for frontend. Can be ignored. 
 
-To run contracts, foll
 
 
 ## Setup
