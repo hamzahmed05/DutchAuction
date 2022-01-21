@@ -4,7 +4,7 @@ The Dutch Auction is a type of reverse auction. The auctioneer starts with a hig
 
 If something needs to be sold, a price has to be found. Many systems have been created to facilitate price discovery: negotiations, order books, market research and even horoscopes. However, none are as effective at immediate price discovery as auctions. They are the way to facilitate the sale of anything – an artwork, a deed or a right – to the immediate market. 
 
-Their simplicity, effectiveness and power have cemented auctions as a cornerstone of decentralized finance and one auction type is almost universally found among the largest decentralised finance applications: the Dutch Auction. The total duration is known before the auction has begun; it is incredibly effective at price discovery because of its completely transparent and predictable operation; it allows immediate delivery upon payment, and most importantly it allows for the fewest transactions for everybody: 1. Paid by the buyer.
+Their simplicity, effectiveness and power have cemented auctions as a cornerstone of decentralized finance and one auction type is almost universally found among the largest decentralized finance applications: the Dutch Auction. The total duration is known before the auction has begun; it is incredibly effective at price discovery because of its completely transparent and predictable operation; it allows immediate delivery upon payment, and most importantly it allows for the fewest transactions for everybody: 1. Paid by the buyer.
 
 
 # The Project
